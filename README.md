@@ -6,6 +6,11 @@ Uma aplicação web responsiva para sortear números aleatórios de forma rápid
 
 Este projeto foi desenvolvido como parte de um desafio da Rocketseat, implementando uma aplicação de sorteador de números com interface moderna e animações suaves.
 
+## 📸 Preview
+
+![Interface do projeto](./img/preview.png)
+
+#
 ## ✨ Funcionalidades
 
 - ✅ **Definir quantidade**: O usuário pode escolher quantos números quer sortear (1-20)
